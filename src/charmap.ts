@@ -906,5 +906,5 @@ export const Charmap = new Map([
 
   [0xfa, "\\l"], // scroll up window text
   [0xfb, "\\p"], // new paragraph
-  [0xfe, "\\n"] // new line
+  [0xfe, "\n"] // new line
 ]);
